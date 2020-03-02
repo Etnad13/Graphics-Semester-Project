@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-23T20:31:11.546075500Z</date>
+  <millis>1582489871546</millis>
+  <nanos>75500</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: Drawing.glVertex2f</message>
+  <exception>
+    <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: Drawing.glVertex2f</message>
+    <frame>
+      <class>Drawing</class>
+      <method>Triangle</method>
+      <line>165</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>148</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>193</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>70</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-23T23:23:59.392373Z</date>
+  <millis>1582500239392</millis>
+  <nanos>373000</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: Drawing.glColor3f</message>
+  <exception>
+    <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: Drawing.glColor3f</message>
+    <frame>
+      <class>Drawing</class>
+      <method>Triangle</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>162</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>211</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>71</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T02:36:02.597820700Z</date>
+  <millis>1582511762597</millis>
+  <nanos>820700</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: Drawing.update</message>
+  <exception>
+    <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: Drawing.update</message>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>237</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>71</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T03:13:41.019873600Z</date>
+  <millis>1582514021019</millis>
+  <nanos>873600</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: V.isEmpty</message>
+  <exception>
+    <message>java.lang.RuntimeException: Uncompilable source code - Erroneous sym type: V.isEmpty</message>
+    <frame>
+      <class>Drawing</class>
+      <method>Polygon</method>
+      <line>205</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>175</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>253</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>71</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:50:51.079913200Z</date>
+  <millis>1582563051079</millis>
+  <nanos>913200</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>235</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>280</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:50:55.580053200Z</date>
+  <millis>1582563055580</millis>
+  <nanos>53200</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>235</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>280</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:51:07.703200700Z</date>
+  <millis>1582563067703</millis>
+  <nanos>200700</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>235</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>280</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:51:19.800665400Z</date>
+  <millis>1582563079800</millis>
+  <nanos>665400</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>235</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>280</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:53:11.342874300Z</date>
+  <millis>1582563191342</millis>
+  <nanos>874300</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>235</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>280</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:54:37.069942800Z</date>
+  <millis>1582563277069</millis>
+  <nanos>942800</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: &lt;any&gt;</message>
+  <exception>
+    <message>java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: &lt;any&gt;</message>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>90</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>235</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>280</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:54:52.870152600Z</date>
+  <millis>1582563292870</millis>
+  <nanos>152600</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>232</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>277</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:55:20.018181100Z</date>
+  <millis>1582563320018</millis>
+  <nanos>181100</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>232</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>277</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:55:50.955276800Z</date>
+  <millis>1582563350955</millis>
+  <nanos>276800</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>231</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>276</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:56:17.661547800Z</date>
+  <millis>1582563377661</millis>
+  <nanos>547800</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>231</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>276</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:56:24.411283500Z</date>
+  <millis>1582563384411</millis>
+  <nanos>283500</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>122</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>231</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>276</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-24T16:58:20.109542400Z</date>
+  <millis>1582563500109</millis>
+  <nanos>542400</nanos>
+  <sequence>0</sequence>
+  <logger>Drawing</logger>
+  <level>SEVERE</level>
+  <class>Drawing</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+  <exception>
+    <message>org.lwjgl.opengl.OpenGLException: Stack underflow (1284)</message>
+    <frame>
+      <class>org.lwjgl.opengl.Util</class>
+      <method>checkGLError</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>org.lwjgl.opengl.GL11</class>
+      <method>glPopMatrix</method>
+      <line>2828</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>read</method>
+      <line>117</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>render</method>
+      <line>228</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>run</method>
+      <line>273</line>
+    </frame>
+    <frame>
+      <class>Drawing</class>
+      <method>main</method>
+      <line>73</line>
+    </frame>
+  </exception>
+</record>
+</log>
